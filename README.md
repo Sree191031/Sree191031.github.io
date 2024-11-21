@@ -1,86 +1,86 @@
-<div align="left">
-  <img src="https://example.com/your-profile-image.jpg" alt="Your Name" width="150" style="border-radius: 50%; margin-right: 20px;">
-  <h1>[Your Name]</h1>
-  <p><em>Software Engineer | Full-Stack Developer | [Your Expertise]</em></p>
-</div>
+# Welcome to My Portfolio! 👋
+
+## Hi, I'm Sreeya!  
+### 🌍 Based in Kolkata, India  
+
+I am a **Data Scientist**, **Machine Learning Enthusiast**, and a passionate problem-solver. I specialize in turning data into actionable insights and building innovative solutions.  
 
 ---
 
-## 🏆 Summary
-With [X] years of experience in software development, I specialize in building scalable web and mobile applications. My work spans across [technologies/languages], focusing on high-quality code and innovative solutions.
+## 📜 Navigation  
+- [About Me](#about-me)  
+- [What I Do](#what-i-do)  
+- [Resume](#resume)  
+- [Portfolio](#portfolio)  
+- [Blog](#blog)  
+- [Contact](#contact)  
 
 ---
 
-## 🛠 Technical Skills
-- **Languages**: Python, JavaScript, TypeScript, C#
-- **Frameworks**: React, Node.js, Express, Django, .NET
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **DevOps**: Docker, Kubernetes, CI/CD with GitHub Actions
-- **Tools & Platforms**: AWS, Azure, Git, JIRA, VS Code
-- **Other**: RESTful APIs, GraphQL, Microservices architecture
+## 🧑‍💻 About Me  
+
+🎓 Former IIT Kharagpur student with a strong foundation in Data Science and Machine Learning.  
+📊 Currently working at TCG Digital as a Data Analyst, focusing on solving real-world challenges.  
+✨ Passionate about technology, continuous learning, and making meaningful contributions to the field of AI and data analytics.  
 
 ---
 
-## 🗂 Featured Projects
-### 🚀 [Project One Name](https://github.com/username/project-one)
-*Brief description*: A web app for [use case]. Features include [feature 1], [feature 2], and [feature 3].  
-**Tech Stack**: React, Node.js, MongoDB  
-**Live Demo**: [Project Live Link](https://projectdemo.com)  
-![Project Screenshot](https://example.com/project-one-screenshot.png)
+## 🔧 What I Do  
 
-### 📊 [Project Two Name](https://github.com/username/project-two)
-*Brief description*: An analytics tool that helps users visualize [data type] using interactive dashboards.  
-**Tech Stack**: Python, Django, Plotly, PostgreSQL  
-**Live Demo**: [Demo Link](https://projecttwo.com)  
-![Dashboard Image](https://example.com/project-two-image.png)
-
-### 💡 [Project Three Name](https://github.com/username/project-three)
-*Brief description*: An innovative mobile app for [purpose], available on iOS and Android.  
-**Tech Stack**: Flutter, Firebase  
-**App Store**: [iOS Link](https://apps.apple.com/app/id123456) | [Google Play](https://play.google.com/store/apps/details?id=com.projectthree)
+Here’s a glimpse of my skill set and areas of expertise:
+- **Data Analysis**: Extracting actionable insights from data.  
+- **Machine Learning**: Building predictive models using Python and frameworks like TensorFlow, Scikit-learn, and PyTorch.  
+- **Data Visualization**: Creating dashboards with tools like Tableau, Power BI, and Matplotlib.  
+- **Programming Languages**: Python, SQL, and R.  
 
 ---
 
-## 💼 Work Experience
-### [Job Title] at [Company Name]
-*Date Range (e.g., Jan 2020 – Present)*  
-- Led a team of [number] developers to build [project/product], increasing [metric, e.g., user engagement] by [percentage].
-- Designed and implemented [specific feature or tool], resulting in [outcome, e.g., reduced load time by 30%].
-- Collaborated cross-functionally with the design and product teams to ensure optimal user experience.
+## 📝 Resume  
 
-### [Previous Job Title] at [Previous Company]
-*Date Range*  
-- Contributed to [project], adding [feature/improvement], which enhanced [metric, e.g., customer satisfaction].
-- Optimized backend processes, achieving [result, e.g., cost savings or efficiency improvements].
+Download my resume: [Click Here](link-to-your-resume.pdf)
 
 ---
 
-## 📚 Education
-- **[Degree] in [Field of Study]**  
-  [University Name], [Year Graduated]
+## 🚀 Portfolio  
 
-- **Certifications**: [Certification Name] (e.g., AWS Certified Solutions Architect)
+### Featured Projects:
+1. **Project 1: Sales Forecasting with ML**  
+   - **Description**: Built a machine learning model to predict future sales for a retail chain.  
+   - **Tech Stack**: Python, Pandas, Scikit-learn.  
+   - [View on GitHub](link-to-project-1)  
 
----
+2. **Project 2: Customer Churn Prediction**  
+   - **Description**: Predicted customer churn rates for a telecom company using classification models.  
+   - **Tech Stack**: Python, Logistic Regression, Matplotlib.  
+   - [View on GitHub](link-to-project-2)  
 
-## 🏅 Achievements
-- Winner of [Hackathon/Event Name] for [project description].
-- Speaker at [Conference/Meetup], presenting [topic].
-- Published research on [topic] in [Journal/Publication].
-
----
-
-## 📝 Blog & Writing
-- **[Blog Post Title](https://yourbloglink.com)** – *A brief description of what the post covers.*  
-- **[Publication Name](https://linktoarticle.com)** – *Topic and a quick summary.*
-
----
-
-## 📫 Get in Touch
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Website**: [yourportfolio.com](https://yourportfolio.com)
+3. **Project 3: Interactive Data Visualization Dashboard**  
+   - **Description**: Developed an interactive dashboard for real-time business insights.  
+   - **Tech Stack**: Tableau, SQL.  
+   - [View on GitHub](link-to-project-3)  
 
 ---
 
-*Thanks for checking out my profile! Feel free to reach out for collaboration or just to connect.*
+## ✍️ Blog  
+
+I occasionally write about Data Science, Machine Learning, and industry trends.  
+Check out my blogs: [Coming Soon!]
+
+---
+
+## 📫 Contact  
+
+Let's connect!  
+- **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)  
+
+---
+
+## ©️ Footer  
+
+🌟 *Thanks for visiting! Feel free to reach out for collaboration or opportunities.*  
+
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat&logo=github)](https://your-github-portfolio.github.io)
